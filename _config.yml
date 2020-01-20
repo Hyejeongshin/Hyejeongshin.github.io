@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Recruiting Event"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Apply for Solutions Architect"
 description              : "An amazing website."
 url                      : "https://hyejeongshin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -109,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Apply for Solutions Architect"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Come build the **future** with us!"
+  location         : "경기 성남시 분당구 판교역로 192번길 14, 3층(삼평동, 리치투게더센터)"
+  email            : jaehap@amazon.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

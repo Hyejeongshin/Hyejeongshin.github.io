@@ -4,19 +4,23 @@ date: 2020-01-20
 categories: jekyll update
 ---
 [AWS Korea 솔루션즈 아키텍트 채용팀이 갑니다. 판교에서 만나요!]
+=============
 
-*등록: https://lnkd.in/fwTwq4s
+## **[등록하기](https://lnkd.in/fwTwq4s)**
+
+---------------------------------------
 
 AWS Korea의 다양한 솔루션즈 아키텍트 포지션, 채용 프로세스, 성장기회에 대해 채용 담당자와 1:1로 이야기를 나눌 수 있는 자리를 마련하였습니다.
 
-• 주제: 솔루션즈 아키텍트 포지션 소개
-• 일시: 2월 매주 목, 금요일 2시~6시 30분 (개인별 20~30분)
-• 장소: 판교 캠퍼스유 (판교역 도보 3분. https://campusu.co.kr/map/)
-• 참석대상: 왕성한 기술적 호기심과 전문성을 가진 IT 엔지니어 분들 누구나 환영합니다.
+* 주제: 솔루션즈 아키텍트 포지션 소개
+* 일시: 2월 매주 목, 금요일 2시~6시 30분 (개인별 20~30분)
+* 장소: 판교 캠퍼스유 (판교역 도보 3분. https://campusu.co.kr/map/)
+* 참석대상: 왕성한 기술적 호기심과 전문성을 가진 IT 엔지니어 분들 누구나 환영합니다.
 ex) Software Developer/Engineer, System Engineer, Software Architect, Pre-sales Engineer, Data Architect, DBA, Machine Learning Engineer, Support engineer, DevOps Engineer, …
 
 Cloud사용 경험이 없으신가요? 영어에 자신이 없으신가요? 인프라 경험이 없다구요? 기술에 자신이 있다면, 주저하지 마세요!
 
+---------------------------------------
 
 * 자주 묻는 질문
 1) 저는 개발자 입니다. Solutions Architect 포지션을 추천하시나요?

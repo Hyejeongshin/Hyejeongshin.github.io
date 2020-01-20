@@ -20,10 +20,10 @@ AWS Korea의 다양한 솔루션즈 아키텍트 포지션, 채용 프로세스,
 * 참석대상: 왕성한 기술적 호기심과 전문성을 가진 IT 엔지니어 분들 누구나 환영합니다.
   * ex) Software Developer/Engineer, System Engineer, Software Architect, Pre-sales Engineer, Data Architect, DBA, Machine Learning Engineer, Support engineer, DevOps Engineer, …
 
-Cloud 사용 경험이 없으신가요? 
-영어에 자신이 없으신가요? 
-인프라 경험이 없다구요? 
-기술에 자신이 있다면, 주저하지 마세요!
+Cloud 사용 경험이 없으신가요?  
+영어에 자신이 없으신가요?  
+인프라 경험이 없다구요?  
+기술에 자신이 있다면, 주저하지 마세요!  
 
 ---------------------------------------
 

@@ -11,7 +11,12 @@ categories: jekyll update
 ![](https://media-exp1.licdn.com/dms/image/C5122AQH1gCxM6tNc1w/feedshare-shrink_800/0?e=1582156800&v=beta&t=0RDijCtH2XaVBZ8bvZ6j3nAEl3xE86q5GApeldXuKkE)
 
 ---------------------------------------
+Cloud 사용 경험이 없으신가요?  
+영어에 자신이 없으신가요?  
+인프라 경험이 없다구요?  
+기술에 자신이 있다면, 주저하지 마세요!  
 
+---------------------------------------
 AWS Korea의 다양한 솔루션즈 아키텍트 포지션, 채용 프로세스, 성장기회에 대해 채용 담당자와 1:1로 이야기를 나눌 수 있는 자리를 마련하였습니다.
 
 * 주제: 솔루션즈 아키텍트 포지션 소개
@@ -19,11 +24,6 @@ AWS Korea의 다양한 솔루션즈 아키텍트 포지션, 채용 프로세스,
 * 장소: 판교 캠퍼스유 (판교역 도보 3분. https://campusu.co.kr/map/)
 * 참석대상: 왕성한 기술적 호기심과 전문성을 가진 IT 엔지니어 분들 누구나 환영합니다.
   * ex) Software Developer/Engineer, System Engineer, Software Architect, Pre-sales Engineer, Data Architect, DBA, Machine Learning Engineer, Support engineer, DevOps Engineer, …
-
-Cloud 사용 경험이 없으신가요?  
-영어에 자신이 없으신가요?  
-인프라 경험이 없다구요?  
-기술에 자신이 있다면, 주저하지 마세요!  
 
 ---------------------------------------
 

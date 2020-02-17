@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## **[등록하기](https://lnkd.in/fJ-82Wi)**
 
-![women's day poster.pdf](https://github.com/Hyejeongshin/hyejeongshin.github.io/files/4212348/women.s.day.poster.pdf)
+![0001](https://user-images.githubusercontent.com/59952655/74633357-cd5afc80-51a4-11ea-85c9-db351f00e6f1.jpg)
 
 ---------------------------------------
 변화를 만들고,

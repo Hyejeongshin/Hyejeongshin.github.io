@@ -3,10 +3,9 @@ title: "Builders Live, 여성 엔지니어 여러분을 초대합니다"
 date: 2020-02-12 
 categories: jekyll update
 ---
-[Innovate. Lead. Uplift others towards equality.]
 =============
 
-## **03월 05일(목) 6:30 p.m ~ 8:30 p.m. [등록하기](https://lnkd.in/fJ-82Wi)**
+## **[클릭하여 등록하세요!](https://lnkd.in/fJ-82Wi)**
 
 ![0001](https://user-images.githubusercontent.com/59952655/74633357-cd5afc80-51a4-11ea-85c9-db351f00e6f1.jpg)
 

@@ -6,7 +6,7 @@ categories: jekyll update
 [Innovate. Lead. Uplift others towards equality.]
 =============
 
-## **[등록하기](https://lnkd.in/fJ-82Wi)**
+## **2020년 03월 05일 (목) 6:30 p.m. ~ 8:30 p.m. [등록하기](https://lnkd.in/fJ-82Wi)**
 
 ![0001](https://user-images.githubusercontent.com/59952655/74633357-cd5afc80-51a4-11ea-85c9-db351f00e6f1.jpg)
 
